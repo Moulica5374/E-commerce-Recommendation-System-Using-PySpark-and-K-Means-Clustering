@@ -1,4 +1,5 @@
-# E-commerce-Recommendation-System-Using-PySpark-and-K-Means-Clustering
+# E-commerce-Recommendation-System-Using-PySpark and K-Means-Clustering | PCA
+
 This project demonstrates how to build a scalable recommendation system using PySpark. It focuses on clustering-based recommendations by processing product data(PySpark), extracting embeddings(Open AI text embeddings), applying dimensionality reduction(PCA) and generating product clusters to offer intelligent suggestions based on user behavior.
 
 - Fetch the api keys from the open ai in order to use it for text embeddings and secure it .
